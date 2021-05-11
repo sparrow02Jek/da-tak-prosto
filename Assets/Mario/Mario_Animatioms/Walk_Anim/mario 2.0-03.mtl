@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+# MagicaVoxel @ Ephtracy
+
+newmtl palette
+illum 1
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd mario 2.0-03.png
+=======
+# MagicaVoxel @ Ephtracy
+
+newmtl palette
+illum 1
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd mario 2.0-03.png
+>>>>>>> b6339f0149453cd8d7f117101955fa1b4369b571
