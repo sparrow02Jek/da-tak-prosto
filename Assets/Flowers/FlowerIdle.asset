@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d3d9e6e0905464a887d26cb721fca3, type: 3}
+  m_Name: FlowerIdle
+  m_EditorClassIdentifier: 
+  meshAnimationType: 0
+  defaultMaterial: {fileID: 2100000, guid: 8fe2f2d8c70274a4eb57b720f07dd765, type: 2}
+  defaultMesh: {fileID: 0}
+  name: Flower_Idle
+  meshAnim:
+  - Mesh: {fileID: -2432090755550338912, guid: d0092e736e1aebf4385980332d869cf9, type: 3}
+    Material: {fileID: 2100000, guid: d89d73354e5bac94aa633581009d010e, type: 2}
+    Timer: 0.5
+  - Mesh: {fileID: -2432090755550338912, guid: b88f12355afb9b546a8049138f0882dc, type: 3}
+    Material: {fileID: 2100000, guid: 8fe2f2d8c70274a4eb57b720f07dd765, type: 2}
+    Timer: 0.5

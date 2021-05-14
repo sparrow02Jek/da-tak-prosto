@@ -1,0 +1,5 @@
+﻿enum MeshAnimationType
+{
+    Cycling,
+    Linear
+}
